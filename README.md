@@ -1,4 +1,4 @@
-# BadApple!!とは?ᗜ˰ᗜ
+# BadApple!! ᗜ˰ᗜとは?
 ## "Bad Apple!!" is the sixth track in the soundtrack of the 1998 bullet hell video game Lotus Land Story, the fourth entry in the Touhou Project series created by Team Shanghai Alice.
 # Steps to take:
 1. Using ffmpeg, record video at 10fps to produce 2190 images.
